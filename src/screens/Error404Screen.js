@@ -1,6 +1,6 @@
-const ProductScreen = {
+const Error404Screen= {
 	render:()=> {
-		return `<div>ProductScreen</div>`;		
+		return `<div>Page not found!</div>`;		
 	},
 };
-export default ProductScreen;
+export default Error404Screen;
